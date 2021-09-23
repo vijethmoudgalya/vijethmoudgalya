@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/33093576/134501389-fd0250bf-bd2c-43a8-b93d-de6a97ff7640.png)
+![image](https://www.expert.ai/wp-content/uploads/2017/03/machine-learning-definition.jpeg)
 
 <h1 align = "center">Hello there! <img src="https://github.com/AsadAzam/AsadAzam/blob/master/wave.gif" width="30px"></h1> 
 
