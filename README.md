@@ -2,7 +2,7 @@
 
 <h1 align = "center">Hello there! <img src="https://github.com/AsadAzam/AsadAzam/blob/master/wave.gif" width="30px"></h1> 
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=It's+Vijeth!;I'm+a+Data+Science+enthusiast;exploring+the+WORLD+of+Data)](https://git.io/typing-svg)</h1> 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=It's+Vijeth!;I'm+a+Data+Scientist;exploring+the+WORLD+of+Data)](https://git.io/typing-svg)</h1> 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
  <h2 align="center"><u><b>Knowledge Base</b></u></h2>
