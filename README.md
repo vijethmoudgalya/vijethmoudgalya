@@ -12,21 +12,21 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
       alt="c"/>
   </a>
-  <a href="https://www.java.com" target="_blank"> 
+<!--   <a href="https://www.java.com" target="_blank"> 
     <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
       alt="java"/> 
-  </a>
+  </a> -->
   <a target="_blank"> 
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"
       alt="C"/> 
   </a>
-  <a href="https://www.w3.org/html/" target="_blank"> 
+<!--   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
       alt="html5"/> 
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
-      alt="css3"/>
+      alt="css3"/> -->
 </p>
   
   <h3 align="center">Database</h3>
@@ -162,8 +162,8 @@
 | Machine Learning | Linear Regression, Logistic Regression, Decision Tree, Support vector machine, Naive Bayes, Ensemble technique, Hyper parameter tunning  |
 | Deep Learning | Artificial Neural Network, Convolutional Neural Network, Recurrent Neural Network, LeNET, AlexNet, VGG, Resnet, InceptionNet |
 | Computer Vision | RCNN family , Yolo family , SSD, Object segmentation(Mask-RCNN) , Object Tracking  |
-| Natural Language Processing | Encoder-Decoder, Self Attention, Transformer, Transfer Learning models |
-
+| Natural Language Processing | Generative AI, Encoder-Decoder, Self Attention, Transformer, Transfer Learning models, Large Language Models |
+| Reinforcement Learning | VPG, PPO , TRPO, DDPG , Q-Learning |
 ## &#x1f4c8; GitHub Stats
 
 <hr>
